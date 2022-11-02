@@ -1,0 +1,32 @@
+[
+    {
+        "id": 0,
+        "name": "Pierre",
+        "greetings": [
+            "The shopkeeper greets you with a nervous but friendly “Finest wares for the finest prices. I promise.”",
+            "The shopkeeper greets you with a warm “Welcome, how may I be of service to you today?”",
+            "The shopkeeper greets you with an apathetic “What is it? Need something?”",
+            "Before you begin to peruse, the shopkeeper greets you with a passive aggressive “All store prices are final and non-negotiable, understand?”",
+            "The shopkeeper greets you while pushing away another customer with a crude “Next!”",
+            "The shopkeeper greets you with a rather pushy “What do you need?”",
+            "The shopkeeper greets you with a gentle bow.",
+            "The shopkeeper greets you with a boastful “I have the best goods for miles around.”",
+            "The shopkeeper is reading something and completely ignores you.",
+            "The shopkeeper welcomes you with a friendly smile but no words.",
+            "The shopkeeper is talking with somebody and pays no attention to you.",
+            "The shopkeeper greets you with a rather aggressive “You break it, you buy it.”",
+            "The shopkeeper is busy arguing with another client and is unable to welcome you.",
+            "The shopkeeper is busy with another client, but a quick glance your way shows you’ve been noticed.",
+            "The shopkeeper welcomes you with a friendly, but odd glance.",
+            "The shopkeeper stares at you as you enter the store.",
+            "The shopkeeper greets you with a rude “Be quick about your business.”",
+            "The shopkeeper is busy with another client, but still manages to welcome you.",
+            "The shopkeeper is clearly pretending to be too busy to welcome you.",
+            "The shopkeeper greets you with a hearty “Welcome. If you need any help, all you have to do is ask.”",
+            "The shopkeeper seems to be sleeping on the desk.",
+            "The shopkeeper welcomes you with a courteous bow and a friendly “Welcome to my humble store, it is my pleasure to be in your presence.”",
+            "The shopkeeper greets you with a rehearsed “I got the best deals anywhere.”",
+            "The shopkeeper greets you with an impatient “Time is money, friend.”"
+        ]
+    }
+]
